@@ -31,11 +31,13 @@ I am a 2nd year PhD student co-supervised by professors Pauline Barmby and Sarah
 
 You can find my publications and my CV on this [website](https://ahelias-astro.github.io/). You also can find more about me on my Linkedin [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US).
 
-## Hannah Christie (MSc 2025)
-
-My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Helias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
-
 # Recent alumni
+
+## Hannah Christie (MSc 2025)
+  
+Hannah was a MSc. student focusing on star formation in extreme environments. Hannah studied star formation scaling relations in LSB galaxies, searching for relationships between stellar mass, atomic gas, and star formation rate (see [Christie et al. 2025](https://iopscience.iop.org/article/10.1088/1538-3873/ae0afc/meta/) for more details). Hannah also worked on studying the interstellar medium (ISM) in DF-E1, a nascent tidal dwarf galaxy in the nearby M81 group. Using new Submillimetre Array (SMA) 12CO(2-1) observations combined with ancillary ISM data, Hannah was able to study individual giant molecular clouds (GMCs) in DF-E1, and the rich multi-phase ISM structure surrounding the TDG (Christie and Koch et al., in prep). During her BSc. in Honours Astrophysics at McMaster University, Hannah studied the impact of large contiguous sky surveys on traditional targeted studies ([Christie et al. 2024](https://iopscience.iop.org/article/10.1088/1538-3873/ad26a1/)). 
+
+Hannah is now a PhD student at the Center for Astrophysics and Supercomputing at Swinburne University of Technology working in the Analysis of Galaxies At the Extremes (AGATE) collaboration. You can find more about Hannah on [LinkedIn](https://www.linkedin.com/in/hannah-s-christie/). 
 
 ## Matheus do Carmo Carvalho (MSc 2024)
 
